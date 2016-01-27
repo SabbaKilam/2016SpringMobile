@@ -1,0 +1,59 @@
+Operating System: The first and main system of programs
+run on your computer. The OS's facilitates the running
+of applications (other programs) and facilitates
+organizing your files (program files and data files).
+
+Application: runs on your device with the help of 
+the device's OS: the OS launches the application and
+provides assistance to the application. Apps usually
+have to access data files in order to operate. 
+ 
+Web Application: runs in a browser
+(which itself is an regular OS application).
+Browsers run on desktops and on mobile devices.
+Good web apps run well on both.
+Current thinking: Design web apps for "Mobile First".
+Use "Responsive Design" techniques => Size-Sensitive
+
+Mobile Apps:
+Three kinds of mobile apps:
+1.) pure web app: runs in a browser on your device.
+2.) native app: runs as a local app on your device.
+3.) hybrid app: runs a local app's "web view" to access
+    local resources.
+    
+--------------------------------------------
+Pure Web:
+Written in HTML, CSS, JavaScripts, aka "web standards:
+User advantages: nothing to download, just use the browser.
+Developer advantage: no need to learn another language.
+No need to buy a developer's license (Apple: $100.00 / year).
+No need to apply to sell on app stores.
+--------------------------------------------
+Native apps:
+Native apps are written in the preferred
+language of the mobile OS.
+        iPhone/iPad => Objective-C or Swift
+        Android => Java
+        Windows Phone => C# (pronounce see-sharp)
+The advantages:
+    Total "look and feel" like the OS's apps
+    Quick response (runs fast)
+    
+The disadvantages:
+Need to employ coders who are experts
+on each mobile platform's language;
+at least three teams of coders.
+Need developer license (Apple $100.00/year).
+Need to apply to sell on the app stores.
+----------------------------------------------------
+Hybrid apps:
+Advantages: written using web standards: HTML, CSS, JavaScript
+and their associated libraries and frameworks such as"
+jQuery, Bootstrap, Angular, React, Node.js, etc.
+No new language to learn.
+
+Disadvantages:
+Substandard look-and-feel (but that's being improved).
+Relative sluggish or slow performance (but that's being improved).
+Soon, these disadvantages go away.
