@@ -31,9 +31,9 @@ var menuOpen = false;
             return chainStyles;
         };
         f.element = element;
-        this.$=f;
+        window.$=f;
         return f;
-})()
+})();
 //---------event handlers----------------
 heading.onclick = function(e){
     e.stopPropagation();
